@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\bin\Debug\Boos.Unicórnio.exe.config
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\bin\Debug\Boos.Unicórnio.exe
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\bin\Debug\Boos.Unicórnio.pdb
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\obj\Debug\Boos.Unicórnio.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\obj\Debug\Boos.Unicórnio.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\obj\Debug\Boos.Unicórnio.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\obj\Debug\Boos.Unicórnio.exe
+C:\Users\victor.grferreira\source\repos\Boos.Unicórnio\Boos.Unicórnio\obj\Debug\Boos.Unicórnio.pdb
